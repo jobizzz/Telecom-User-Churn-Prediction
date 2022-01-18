@@ -1,0 +1,2 @@
+# Telecom-User-Churn-Prediction
+In this paper, I applied different pre-processing techniques, sampling methods and machine learning techniques like Random Forest, Logistic Regression, Light GBM Classifier and Extreme Gradient Boosting (XGB) Classifier to predict the customer churn. To evaluate the performance of machine learning techniques, I have considered the measures like recall, AUC (Area under curve) Score and F1 score.
